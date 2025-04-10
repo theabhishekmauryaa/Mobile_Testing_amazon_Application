@@ -1,9 +1,9 @@
 # Amazon Mobile App – Manual Testing
 
-![GoogleDrive_Link](https://drive.google.com/drive/folders/19h5txl-PM9rIqLK3pWG58VEy9rWMX7yH?usp=sharing)
-[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://drive.google.com/file/d/12vxa0ov-0eGQ6n3GmfVN4y77q6IAB3kQ/view?usp=sharing)
+ [Watch Demo on Google Drive](https://drive.google.com/drive/folders/19h5txl-PM9rIqLK3pWG58VEy9rWMX7yH?usp=sharing)
+ ---
+[![Presentations_Video]()](https://drive.google.com/file/d/12vxa0ov-0eGQ6n3GmfVN4y77q6IAB3kQ/view?usp=sharing)
 
-![presentations_Video](https://drive.google.com/file/d/12vxa0ov-0eGQ6n3GmfVN4y77q6IAB3kQ/view?usp=sharing)
 ![Amazon Logo](https://github.com/theabhishekmauryaa/Mobile_Testing_amazon_Application/blob/main/Amazon-Logo.png)
 
 ## Introduction
