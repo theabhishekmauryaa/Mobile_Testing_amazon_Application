@@ -1,5 +1,5 @@
 # Amazon Mobile App – Manual Testing
-![Amazon Logo](https://link-to-your-logo-image.png)
+![Amazon Logo](https://github.com/theabhishekmauryaa/Mobile_Testing_amazon_Application/blob/main/Amazon-Logo.png)
 
 ## Introduction
 The Amazon Mobile App is a widely used e-commerce platform that allows users to browse, search, add to cart, and purchase items. This test plan focuses on ensuring that all core functionalities of the Amazon mobile app perform as expected on Android and iOS devices through comprehensive manual testing.
